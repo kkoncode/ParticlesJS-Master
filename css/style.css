@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+
+
+
+#particles-js{
+	background-image: url('../img/bg.jpg');
+	height: 100vh;
+}
+
+.texthead{
+	color: #f9f3f4;
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	width: 100%;
+	font-size: 40px;
+}
+
+
+p{
+	font-size: 15px;
+}
